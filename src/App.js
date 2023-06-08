@@ -1,6 +1,6 @@
 import answers from './answers';
 import EightBall from './Eightball';
-import './App.css';
+
 
 function App() {
   return (
